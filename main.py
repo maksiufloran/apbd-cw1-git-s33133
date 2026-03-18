@@ -23,4 +23,9 @@ def calculateMin(values):
 calculateMin()
 #alksjdlkasjdk
 
+<<<<<<< HEAD
 #change main
+=======
+
+#change - changed
+>>>>>>> feature-conflict
