@@ -7,3 +7,6 @@ while True:
     print(":)")
 
 # laskjdlka
+
+def calculateAverage(values):
+    pass
