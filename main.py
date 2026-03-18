@@ -19,3 +19,5 @@ def calculateMax(values):
 
 def calculateMin(values):
     pass
+
+calculateMin()
