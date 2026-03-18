@@ -12,3 +12,6 @@ def calculateAverage(values):
     pass
 
 calculateAverage()
+
+def calculateMax(values):
+    pass
