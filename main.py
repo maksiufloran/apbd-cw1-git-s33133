@@ -15,3 +15,7 @@ calculateAverage()
 
 def calculateMax(values):
     pass
+
+
+def calculateMin(values):
+    pass
