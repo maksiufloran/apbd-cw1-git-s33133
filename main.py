@@ -10,3 +10,5 @@ while True:
 
 def calculateAverage(values):
     pass
+
+calculateAverage()
